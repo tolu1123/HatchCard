@@ -8,7 +8,7 @@ function HelloWorld() {
           <img
             src='https://images.unsplash.com/photo-1560445956-5cc3ebbb5e03?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
             alt='Beau pic'
-            className="rounded-2xl"
+            className="rounded-2xl w-full aspect-[16/11] object-cover object-center"
           />
           <p className='px-3 bg-yellow-500 w-fit rounded-sm font-semibold text-sm mt-2'>Learning</p>
           <p className=' text-sm'>Published 21 Dec 2013</p>
